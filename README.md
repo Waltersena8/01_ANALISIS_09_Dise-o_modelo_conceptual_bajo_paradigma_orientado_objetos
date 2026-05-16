@@ -1,0 +1,2 @@
+# 01_ANALISIS_09_Dise-o_modelo_conceptual_bajo_paradigma_orientado_objetos
+Este repositorio trata sobre el Diseño modelo conceptual
